@@ -1,9 +1,9 @@
 # XEMA
  A low cost, full featured open source, industrial 3D camera.
 
-![DFX800](https://github.com/Open3DV/OpenCam3D/raw/master/images/DFX804.jpg)
+![https://github.com/Open3DV/Xema/tree/master/images/DFX804.jpg](https://raw.githubusercontent.com/Open3DV/Xema/master/images/DFX804.jpg)
 
-> This project is an Open Source industrial 3D camera. The goal at current stage is to create a low cost 3D camera with capability of current generation industrial cameras. It is also a computer with GPU computing capability, which makes running 3D point cloud recognition algorithms and robotic arm control programs possible. This camera can be used in scenarios such as bin-picking, assembly, 3D inspection and many others. 
+> This project is an open source industrial 3D camera. The goal at current stage is to create a low cost 3D camera with capability of current generation industrial cameras. It is also a computer with GPU computing capability, which makes running 3D point cloud recognition algorithms and robotic arm control programs possible. This camera can be used in scenarios such as bin-picking, assembly, 3D inspection and many others. 
 > 
 > Our ultimate goal is to continuously reduce the cost of industrial 3D cameras with the help of deeplearning's capabilities of abstract representation, and allow machine vision and AI to penetrate all aspects of this carbon-based world.
 > 
@@ -13,8 +13,8 @@
 | High Scan Quality  | Open Hardware | Easy-To-Start |
 | ----- | ----- | ------- | 
 | <div style="width: 150pt"> The camera is designed for industrial use. High accuracy of 50 micron or better is achievable </div> |  <div style="width: 150pt"> All of our developement is open-source, that anyone can use and improve it. </div>  | <div style="width: 150pt"> A growing number of detailed tutorials will help getting started. </div> |
-| ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud01@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud02@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud03@2x.png) |
-| ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud04@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud05@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud06@2x.png) |
+| ![](https://raw.githubusercontent.com/Open3DV/Xema/master/images/products_sense_pic_pointcloud01@2x.png) | ![](https://raw.githubusercontent.com/Open3DV/Xema/master/images/products_sense_pic_pointcloud02@2x.png) | ![](https://raw.githubusercontent.com/Open3DV/Xema/master/images/products_sense_pic_pointcloud03@2x.png) |
+| ![](https://raw.githubusercontent.com/Open3DV/Xema/master/images/products_sense_pic_pointcloud04@2x.png) | ![](https://raw.githubusercontent.com/Open3DV/Xema/master/images/products_sense_pic_pointcloud05@2x.png) | ![](https://raw.githubusercontent.com/Open3DV/Xema/master/images/products_sense_pic_pointcloud06@2x.png) |
 
  <table>
     <tr>
@@ -80,9 +80,30 @@
 </table>
 
 
+<br> <a href='https://github.com/Open3DV/xema_hardware/tree/main/step'>XEMA structural design files</a>
+<br> <a href='https://evercraft.co/share?key=4CFED0'>XEMA-S assembly.stp (view online) </a>
+<br> <a href='https://evercraft.co/share?key=92E956'>XEMA-S structural components.stp (view online) </a>
+<br> <a href='https://evercraft.co/share?key=A39A64'>XEMA-L assembly.stp (view online) </a>
+<br> <a href='https://evercraft.co/share?key=167319'>XEMA-L structural components.stp (view online) </a>
+<br> <a href='https://github.com/Open3DV/xema_hardware/tree/main/pcb'>XEMA Jetson Nano Carrier Board design files</a>
 
 
+<img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/dexforce.png' width=150>
 
-Code: <https://github.com/Open3DV/OpenCam3D>  
 Email: <info@dexforce.com>
 
+## Partners:
+ <table>
+    <tr>
+        <td ><div style="width: 150pt"><img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/seeed.png' width=100> <br> <a href='https://www.seeedstudio.com/pcb-assembly.html'>Fusion PCB Assembly Service </a> </div></td>
+        <td><div style="width: 150pt"><img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/nvidia_inception_program.jpg' width=100></div></td>
+        <td><div style="width: 100pt"><img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/anhua.png' width=100></div></td>
+        <td><div style="width: 100pt"><img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/cbc.png' width=100></div></td>
+    </tr>
+    <tr>
+        <td><img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/daheng.png' width=100> </td>
+        <td><img src='https://raw.githubusercontent.com/Open3DV/Xema/master/images/logo/basler.png' width=100></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
